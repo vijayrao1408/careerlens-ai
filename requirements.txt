@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+pydantic
+groq
+pypdf
+pymupdf
+python-docx
+fastembed
+numpy
